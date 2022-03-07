@@ -1,0 +1,23 @@
+.option {
+    background: purple;
+    color: white;
+}
+
+.option:hover {
+    font-weight: bold;
+    background: pink;
+}
+
+#startBtn {
+    color: white;
+    background-color: purple;
+}
+
+.btn {
+    background: purple;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
